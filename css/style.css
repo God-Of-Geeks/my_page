@@ -189,7 +189,7 @@ header.boxed{
 }
 
 header.boxed .header-margin{
-  width:1140px;
+  width:1200px;
   margin:0 auto;
 }
 
@@ -372,7 +372,7 @@ CONTENT
 
 
 .content .text-intro{
-  width: 1140px;
+  width: 2140px;
   margin-top: 150px;
   margin: 150px auto 0;
 }

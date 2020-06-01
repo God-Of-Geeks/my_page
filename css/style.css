@@ -199,12 +199,8 @@ header.boxed .header-margin-mini{
 }
 
 
-ul.social-icon{
-  float:right;
-}
 
 ul.social-icon a{
-  float:right;
   font-size:50px;
   border-bottom:0;
   color:black;

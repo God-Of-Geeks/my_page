@@ -5,7 +5,7 @@ body{
   font-size:14px;
   font-weight: 400;
   overflow-y:scroll;
-  background-image: url('my_page/img/background/back.png');
+  background-image: url('/my_page/img/background/back.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: luminosity;

@@ -6,6 +6,7 @@ body{
   font-weight: 400;
   overflow-y:scroll;
   background-image: url('/my_page/img/background/back.png');
+  background-repeat: repeat;
   background-size: cover;
   background-blend-mode: luminosity;
   background-color: #7z7979;

@@ -51,7 +51,7 @@
 }
 
 
-@media  and (max-width: 1179px) and (min-width: 1024px) {
+@media all and (max-width: 1179px) and (min-width: 1024px) {
 
 
   header.boxed .header-margin{
@@ -104,7 +104,7 @@
 }
 
 
-@media  and (max-width: 1023px) and (min-width: 769px) {
+@media all and (max-width: 1023px) and (min-width: 769px) {
 
 
   header.boxed .header-margin{
@@ -171,7 +171,7 @@
 
 
 
-@media  and (max-width: 768px) and (min-width: 481px) {
+@media all and (max-width: 768px) and (min-width: 481px) {
 
 
   header.boxed .header-margin{
@@ -266,7 +266,7 @@
 }
 
 
-@media  and (max-width: 480px) and (min-width: 320px) {
+@media all and (max-width: 480px) and (min-width: 320px) {
 
 
   header.boxed .header-margin{

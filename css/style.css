@@ -6,7 +6,7 @@ body{
   font-weight: 400;
   overflow-y:scroll;
   background-image: url('/my_page/img/background/back.png');
-  background-repeat:repeat;
+  background-repeat:  repeat;
   background-size: cover;
   background-blend-mode: luminosity;
   background-color: #7z7979;
@@ -513,7 +513,7 @@ PORTFOLIO GRID
 li.grid-item{
   width:360px;
   position:relative;
-  float:left;
+  float:center;
   padding:15px;
   background-color: white;
   box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.5);

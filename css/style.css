@@ -416,7 +416,7 @@ button:focus {
         min-height: 350px; } }
     @media (max-width: 991px) {
       .banner_area .banner_inner {
-        background: #0073ff;
+        background: #6c757d;
         width: 100%; } }
     .banner_area .banner_inner .banner_content {
       margin-left: 50px;

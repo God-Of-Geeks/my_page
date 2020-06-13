@@ -282,7 +282,7 @@ button:focus {
             transition: all 0.4s linear; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
               line-height: 45px;
-              color: #000000;
+              color: #ffffff;
               padding: 0px 30px;
               transition: all 150ms linear;
               display: block;
@@ -332,7 +332,7 @@ button:focus {
       display: none; }
   .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 70px;
-    color: #000000; }
+    color: #ffffff; }
 
 .owl-carousel.off {
   display: -ms-flexbox;
@@ -377,7 +377,7 @@ button:focus {
           position: absolute;
           top: 50%;
           left: 23%;
-          background: #000000; }
+          background: #ffffff; }
           @media (max-width: 575px) {
             .home_banner_area .banner_inner .banner_content h3:after {
               display: none; } }

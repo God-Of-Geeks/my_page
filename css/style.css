@@ -2531,12 +2531,6 @@ h6 {
   .single-brand-item:hover {
     border: 1px solid transparent;
     box-shadow: 0px 8px 30px rgba(118, 85, 225, 0.15); }
-    .single-brand-item:hover img {
-      filter: brightness(0%);
-      -o-filter: brightness(0%);
-      -ms-filter: brightness(0%);
-      -moz-filter: brightness(0%);
-      -webkit-filter: brightness(0%); }
 
 .client-info {
   padding: 25px 30px;
@@ -3191,26 +3185,25 @@ h6 {
     content: none; }
 
 .footer_area {
-  padding: 120px 0;
+  padding: 10px 0;
   position: relative; }
   .footer_area:before {
     content: '';
     position: absolute;
-    top: -200px;
+    top: -10px;
     left: 0px;
     right: 0px;
     bottom: 0px;
-    background: #f9f9fd;
     z-index: -1; }
   @media (max-width: 1024px) {
     .footer_area {
-      padding: 60px 0; } }
+      padding: 30px 0; } }
   .footer_area .footer_logo {
     text-align: center; }
     .footer_area .footer_logo h4 {
       font-size: 20px;
       color: #000000;
-      margin-top: 35px;
+      margin-top: 5px;
       text-transform: uppercase; }
   .footer_area .footer_social {
     text-align: center;

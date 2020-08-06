@@ -34,7 +34,7 @@
 .brand_area {
 	padding-bottom: 170px;
 	@media (max-width: 1199px) {
-		padding-bottom: 80px;
+		padding-bottom: 100px;
 	}
 }
 /* End Barand Area css
@@ -121,9 +121,7 @@
 	@media only screen and (max-width: 991px) {
 		margin-top: 50px;
 	}
-	@media (max-width: 575px) {
-		padding-top: 50px;
-	}
+
 	&:before {
 		content: '';
 		position: absolute;
@@ -136,11 +134,7 @@
 			background: none;
 		}
 	}
-	.d-flex {
-		@media (max-width: 575px) {
-			-ms-flex-align: center;
-			align-items: center;
-		}
+
 	}
 	.lage {
 		color: $primary-color2;

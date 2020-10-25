@@ -2597,11 +2597,7 @@ h6 {
       font-weight: 500;
       text-transform: uppercase;
       color: #222222;
-      cursor: pointer;
-      -webkit-transition: all 0.4s ease 0s;
-      -moz-transition: all 0.4s ease 0s;
-      -o-transition: all 0.4s ease 0s;
-      transition: all 0.4s ease 0s; }
+      cursor: pointer;}
       .portfolio_area .filters ul li:hover, .portfolio_area .filters ul li.active {
         color: #9ca0a6; }
       @media (max-width: 767px) {

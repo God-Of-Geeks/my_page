@@ -408,13 +408,13 @@ button:focus {
 
     width: 100%;
     min-height: 485px;
-    background:#6c757d repeat bottom;}
+    background:#949494 repeat bottom;}
     @media (max-width: 1199px) {
       .banner_area .banner_inner {
         min-height: 350px; } }
     @media (max-width: 991px) {
       .banner_area .banner_inner {
-        background: #6c757d;
+        background: #949494;
         width: 100%; } }
     .banner_area .banner_inner .banner_content {
       margin-left: 50px;
@@ -2776,8 +2776,8 @@ h6 {
   }
   .navbar .container {
     padding-left: 15px;
-    padding-right: 15px;
-    background-color:#6c757d;
+    
+    background-color:#949494;
   }
   .nav {
     padding: 0px 0px;
